@@ -2,7 +2,6 @@
 
 A **lightweight SQL query engine** for CSV files — ported to C++17 with **zero runtime dependencies**. Implements core database internals: recursive-descent parser, query optimizer with predicate pushdown, hash join, hash indexing, and automatic type inference.
 
-This is a faithful C++ port of the original Java implementation.
 
 ---
 
